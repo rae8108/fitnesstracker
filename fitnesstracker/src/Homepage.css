@@ -1,0 +1,12 @@
+
+.bordered-heading {
+    color: white;
+    font-size: 40px;
+    letter-spacing: 3px;
+    background-color: rgba(255, 192, 203, 0.668);
+    border: 5px solid rgba(228, 64, 168, 0.319); 
+    padding: 28px;         
+    text-align: center;     
+    border-radius: 0px;    
+    margin: 0px;          
+}

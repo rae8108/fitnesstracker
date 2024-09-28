@@ -1,7 +1,15 @@
 import React from 'react'
+import './Homepage.css';
+import DateAPI  from "./DateAPI"
+
 
 export default function Homepage() {
     return (
-        <h1>Fitness Tracker</h1>
+        <div>
+        <h1 className="bordered-heading">Fitness Tracker</h1>
+     
+        <DateAPI />
+        </div>
+
     )
 }
